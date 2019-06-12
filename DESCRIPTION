@@ -1,6 +1,6 @@
 Package: folderfun
-Version: 0.1.1
-Date: 2019-02-26
+Version: 0.1.2
+Date: 2019-06-11
 Title: Creates and Manages Folder Functions for Portable Large-Scale R
         Analysis
 Description: If you find yourself working on multiple different projects in R, you'll want a 
@@ -21,10 +21,10 @@ RoxygenNote: 6.1.1
 URL: http://code.databio.org/folderfun
 BugReports: http://github.com/databio/folderfun
 NeedsCompilation: no
-Packaged: 2019-02-28 16:56:22 UTC; nsheff
+Packaged: 2019-06-12 11:38:56 UTC; nsheff
 Author: Nathan C. Sheffield [aut, cre],
   Michal Stolarczyk [ctb],
   Vince Reuter [ctb]
 Maintainer: Nathan C. Sheffield <nathan@code.databio.org>
 Repository: CRAN
-Date/Publication: 2019-03-05 14:30:07 UTC
+Date/Publication: 2019-06-12 12:10:03 UTC
